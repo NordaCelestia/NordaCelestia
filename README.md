@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NordaCelestia
+- 👋 Hi, I’m Fatih Kocaman
 - 👀 I’m interested in Designing games,characters , making art, and music
-- 🌱 I’m currently learning Java and C#
+- 🌱 I’m currently learning Unity C# and Character Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
 my mail: fatihkocaman7979@gmail.com
